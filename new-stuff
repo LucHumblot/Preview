@@ -6,6 +6,7 @@ aaaa
 fffff
 f
 
+<<<<<<< Updated upstream
 fffff
 ffffff
 xxx
@@ -20,3 +21,7 @@ s
 
 
 Dit zijn veranderingen vanuit de mac, vanuit mac-pc-branch
+=======
+ffffff
+fffff
+>>>>>>> Stashed changes
