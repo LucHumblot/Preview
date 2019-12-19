@@ -2,4 +2,13 @@ i have changed / edited the text in the unstaged file stage
 
 dfgrsagfdg
 
+
+Dit is gizoisa
+
 preview-hbc-sven wil dat Gizoisa deze merge request cleared en toevoegd aan de master branch  
+
+dit is op de master branch aangepast
+
+dit is op de preview-hcb-sven aangepast
+
+Dit is gizoisa
